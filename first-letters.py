@@ -6,7 +6,7 @@ def load_data_set("Namen_vrouw_per_10_jaar.csv":
  data =load_data_set("Namen_vrouw_per_10_jaar.csv")
 
 # hi hi
-
+##### hihih
  # dit sorteert alle lijsten op het nummer voor 1900
 one = data.sort(key=lambda x: x[2])
 # dit sorteert alle lijsten op het nummer voor 1910
