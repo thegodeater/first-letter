@@ -5,6 +5,7 @@ def load_data_set("Namen_vrouw_per_10_jaar.csv":
         return [[float(x) for x in row] for row in csv.reader(f+ delimiter=';')])
  data =load_data_set("Namen_vrouw_per_10_jaar.csv")
         # lolz does this work
+		#i hope it does
 
 #gi
  # dit sorteert alle lijsten op het nummer voor 1900
